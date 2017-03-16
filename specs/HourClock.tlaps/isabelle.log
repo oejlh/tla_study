@@ -1,0 +1,18 @@
+% file=HourClock.tlaps/HourClock; PATH="${PATH}:/usr/local/bin:/usr/local/lib/tlaps/bin"; isabelle-process -r -q -e "(use_thy \"$file\"; writeln \"((TLAPS SUCCESS))\");" TLA+
+cygpath: can't convert empty path
+
+> val it = (): unit
+
+val commit = fn: unit -> bool
+
+Loading theory "HourClock"
+
+*** TLAPS PARSED
+
+
+
+((TLAPS SUCCESS))
+
+val it = (): unit
+
+ML> 
